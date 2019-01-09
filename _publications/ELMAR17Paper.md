@@ -1,10 +1,10 @@
 ---
-title: "Environment-based Roadside Unit Deployment for Urban Scenarios"
+title: "V2P/I Communication for Increasing Occupational Safety at a Seaports"
 collection: publications
-date: Sep 2016
-venue: "27th Annual International Symposium on Personal, Indoor, and Mobile Radio Communication (PIMRC)"
+date: Sep 2017
+venue: "59th IEEE International Symposium Electronics in Marine (ELMAR)"
 ---
 
-[Download paper here](http://JoseALeon.github.io/files/PIMRC16.pdf)
+[Download paper here](http://JoseALeon.github.io/files/ELMAR17Paper.pdf)
 
-Recommended citation: J. A. L. Calvo, H. A. Tokel, R. Mathar, Environment-based Roadside Unit Deployment for Urban Scenarios, Proceedings: 27th Annual International Symposium on Personal, Indoor, and Mobile Radio Communication (PIMRC), Valencia, Spain, September 2016.
+Recommended citation: S. Bauk, J. A. L. Calvo, R. Mathar, A. Schmeink, V2P/I Communication for Increasing Occupational Safety at a Seaport, Proceedings: 59th IEEE International Symposium Electronics in Marine (ELMAR), Zadar, Croatia, September 2017.
